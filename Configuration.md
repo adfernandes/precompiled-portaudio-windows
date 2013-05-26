@@ -2,8 +2,8 @@
 
 Build Host and Sofware Versions:
 
-* [**PortAudio**](http://portaudio.com) [SVN r1889](https://subversion.assembla.com/svn/portaudio/portaudio/) (as of April 11, 2013)
-* Visual Studio 2012 on Windows 7 (x64)
+* [**PortAudio**](http://portaudio.com) [SVN r1891](https://subversion.assembla.com/svn/portaudio/portaudio/) (as of May 05, 2013)
+* Visual Studio 2012 on Windows 7 (x64), Service Pack 2
 * Windows SDK for Windows 8 (November 15, 2012)
     * Provides the DirectX SDK
     * All components downloaded
