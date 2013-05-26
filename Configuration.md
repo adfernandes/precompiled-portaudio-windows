@@ -40,7 +40,7 @@ You will have a freshly-created `portaudio.vcxproj` file. Open it in a text edit
 
 In `portaudio.vcxproj`, using a text editor (because it is way easier than trying to do it via Visual Studio), make the following changes:
 
-* Replace all occurences of `PA_USE_ASIO=0` with `PA_USE_ASIO=0`
+* Replace all occurences of `PA_USE_ASIO=0` with `PA_USE_ASIO=1`
 * Replace all occurences of `PA_USE_DS=0` with `PA_USE_DS=1`
 * Remove the `PA_WDMKS_NO_KSGUID_LIB` and `PAWIN_WDMKS_NO_KSGUID_LIB` definitions.
 
